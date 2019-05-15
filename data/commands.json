@@ -1,0 +1,1 @@
+[null,{"name":"clear","permissions":"MANAGE_MESSAGES","restriction":"1","actions":[{"info":"0","infoIndex":"1","storage":"1","varName":"amout","name":"Store Command Params"},{"channel":"0","count":"${tempVars(\"amout\")}","condition":"0","custom":"","varName":"","name":"Delete Bulk Messages"},{"storage":"0","varName":"","name":"Delete Message"}]}]
